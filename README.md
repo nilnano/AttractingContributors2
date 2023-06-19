@@ -13,8 +13,8 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 8. King Gnu
 9. MayDay
 10. Sumika
-11. UNISON SQUARE GARDEN
-12.
+11. Deep Purple
+12. UNISON SQUARE GARDEN
 13.
 14.
 15.
