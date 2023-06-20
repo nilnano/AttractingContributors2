@@ -16,7 +16,7 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 11. Deep Purple
 12. UNISON SQUARE GARDEN
 13. Coldplay
-14.
+14. Queen
 15.
 16.
 17.
