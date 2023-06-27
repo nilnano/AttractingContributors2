@@ -26,4 +26,5 @@ Goal : I'd like to get good choices to decide what exercise I should do for weig
 4. Weight training
 5. take photo
 6. Running
-7. swimming
+7. Basketball!!
+8. swimming
