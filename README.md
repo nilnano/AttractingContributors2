@@ -21,12 +21,12 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of "Osaka-style" or "Hiroshima-style"
-Osaka-style <br/>
-Both is brilliant (Peaceful) <br/>
-Hiroshima-style <br/>
-Hiroshima stayle! <br/>
-Osaka-style <br/>
-Hiroshima-style <br/>
-Osaka-style <br/>
-Osaka-style <br/>
-Hiroshima-style <br/>
+1. Osaka-style <br/>
+2. Both is brilliant (Peaceful) <br/>
+3. Hiroshima-style <br/>
+4. Hiroshima stayle! <br/>
+5. Osaka-style <br/>
+6. Hiroshima-style <br/>
+7. Osaka-style <br/>
+8. Osaka-style <br/>
+9. Hiroshima-style <br/>
