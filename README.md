@@ -30,4 +30,5 @@ Goal : I'd like to get good choices to decide what exercise I should do for weig
 8. swimming
 9. play video game
 10. Running
+11. Tennis
 
