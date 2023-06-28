@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 Goal : I'd like to get good choices to decide what exercise I should do for weight loss.
 
 
-# List of Hobby
+# List of Excercise
 1. Walking
 2. Walking
 3. Weight training
