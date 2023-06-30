@@ -24,3 +24,4 @@ To complete the assignment, please do the following:
 - Running
 - make something
 - Playing the flute
+- game
