@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Osaka-style <br/>
 8. Osaka-style <br/>
 9. Hiroshima-style <br/>
+10. Osaka-style <br/>
