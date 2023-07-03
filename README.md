@@ -14,4 +14,5 @@ You can answer your favorite game.
 9. Puyo Puyo
 10. MGS
 11. サルゲッチュ
+12. スマブラ
 
