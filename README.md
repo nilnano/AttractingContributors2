@@ -25,3 +25,4 @@ To complete the assignment, please do the following:
 - make something
 - Playing the flute
 - game
+- game
