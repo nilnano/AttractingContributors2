@@ -26,3 +26,5 @@ To complete the assignment, please do the following:
 - Playing the flute
 - game
 - game
+- Reading the blog
+
